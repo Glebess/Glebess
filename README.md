@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Gleb! </h1>
+<h1  align="center">👋 Hi, I'm Gleb! </h1>
 
 <div align="center">
   <h2>🚀 Frontend Developer (React / TypeScript)</h2> 
