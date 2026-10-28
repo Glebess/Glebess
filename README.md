@@ -8,6 +8,10 @@ I build fast, responsive, and maintainable web applications with a focus on clea
 
 ## 🛠️ Tech Stack & Skills
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;>
+</div>
+
 - **Core & Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3 / SCSS
 - **Frontend:** React 18, React Router DOM
 - **Architecture & State Management:** Feature-Sliced Design (FSD), React Hooks, Context API
