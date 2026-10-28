@@ -51,3 +51,4 @@ I build fast, responsive, and maintainable web applications with a focus on clea
 ## 📫 Get in Touch
 
 - 💬 **Telegram:** [@Glebaster00](https://t.me/Glebaster00)
+- 💼 **LinkedIn:** [Глеб Ермуков](https://www.linkedin.com/in/%D0%B3%D0%BB%D0%B5%D0%B1-%D0%B5%D1%80%D0%BC%D1%83%D0%BA%D0%BE%D0%B2-5b750b447/)
