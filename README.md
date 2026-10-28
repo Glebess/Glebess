@@ -4,6 +4,8 @@
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Glebess&style=flat-square&color=blue" alt=""/>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
