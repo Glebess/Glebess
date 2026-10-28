@@ -23,14 +23,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="nodejs" alt="nodejs" width="50" height="50"/>&nbsp;
   
 </div>
-<div >
+
 - **Core & Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3 / SCSS
 - **Frontend:** React 18, React Router DOM
 - **Architecture & State Management:** Feature-Sliced Design (FSD), React Hooks, Context API
 - **UI & Styling:** CSS Modules, SCSS, Responsive & Adaptive Web Design, A11y
 - **Backend (Basic):** Node.js, Express.js, SQLite, REST API
 - **Tools & Workflow:** Git (Conventional Commits), Vite, npm / pnpm, 
-</div>
+
 
 
 ---
