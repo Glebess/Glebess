@@ -59,9 +59,9 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center" flex-direc>
   <img src="https://github-readme-stats.vercel.app/api?username=Glebess&show_icons=true&theme=tokyonight" alt="Gleb's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glebess&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="175" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glebess&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
