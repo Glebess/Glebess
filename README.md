@@ -45,7 +45,7 @@
   - Optimized rendering (`useCallback` / `useMemo`) for real-time WPM and accuracy calculations.
   - Strict FSD layer separation (`app`, `pages`, `widgets`, `features`, `entities`, `shared`).
   - User profiles with aggregate statistics via dynamic routes (`/profile/:username`).
-  - Custom theme switcher and state resets using composite keys.
+  
 
 ---
 
