@@ -2,7 +2,7 @@
   <h1  align="center">👋 Hi, I'm Gleb! </h1>
   <h2>🚀 Frontend Developer (React / TypeScript)</h2> 
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
-  <img src="https://giphy.com/gifs/anime-cosmic-kilianimes-5NE2L7vdWZ9V39Sjq8" width="30px"/>
+  <img src="https://giphy.com/gifs/anime-cosmic-kilianimes-5NE2L7vdWZ9V39Sjq8.gif" width="30px"/>
   
 </div>
 
