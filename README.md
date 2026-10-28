@@ -45,7 +45,7 @@
 
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Glebess&show_icons=true&theme=tokyonight" alt="Gleb's GitHub Stats" height="175" />
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glebess&theme=solarized_dark)
+  <img scr="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glebess&theme=solarized_dark"/>
 </p>
 
 
