@@ -63,10 +63,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Glebess&show_icons=true&theme=tokyonight" alt="Gleb's GitHub Stats" height="175" />
 </p>
 
-<div>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glebess)](https://github.com/anuraghazra/github-readme-stats)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Glebess&theme=solarized_dark)
-</div>
 
 ---
 
