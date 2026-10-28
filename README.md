@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gleb!
+<h1>👋 Hi, I'm Gleb! </h1>
 
 ### 🚀 Frontend Developer (React / TypeScript)
 
