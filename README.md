@@ -62,7 +62,11 @@
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Glebess&show_icons=true&theme=tokyonight" alt="Gleb's GitHub Stats" height="175" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glebess&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glebess&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Glebess&theme=solarized_dark)
+</div>
 
 ---
 
