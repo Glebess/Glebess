@@ -31,22 +31,6 @@
 - **Backend (Basic):** Node.js, Express.js, SQLite, REST API
 - **Tools & Workflow:** Git (Conventional Commits), Vite, npm / pnpm, 
 
-
-
----
-
-## 📌 Featured Project
-
-### ⌨️ [KeyRush — Modern Speed Typing Trainer](https://github.com/Glebess/keyrush)
-> A high-performance typing speed trainer built with Feature-Sliced Design (FSD), dynamic user profiles, and comprehensive analytics.
-
-- **Stack:** React 18, TypeScript, FSD Architecture, Node.js, Express.js, SQLite.
-- **Key Features:**
-  - Optimized rendering (`useCallback` / `useMemo`) for real-time WPM and accuracy calculations.
-  - Strict FSD layer separation (`app`, `pages`, `widgets`, `features`, `entities`, `shared`).
-  - User profiles with aggregate statistics via dynamic routes (`/profile/:username`).
-  
-
 ---
 
 ## 🎯 Engineering Principles
