@@ -4,7 +4,7 @@
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
 </div>
 
-<div aligin='center'>
+<div align='center'>
   <img src="https://komarev.com/ghpvc/?username=Glebess&style=flat-square&color=blue" alt=""/>
 </div>
 
