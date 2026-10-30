@@ -4,24 +4,27 @@
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
 </div>
 ### 🛠️ Tech Stack & Toolkit
-## FrontEnd
+
+<h2>FrontEnd</h2>
 <div>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons Stream" />
 </a>
 </div>
-## BackEnd(basic)
+
+<h2>BackEnd(basic)</h2> 
 <div>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark" alt="Skill Icons Stream" />
 </div>
-## Test
+    
+<h2>Test</h2> 
 <div>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons Stream" />
+  <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="Skill Icons Stream" />
 </div>
 
-##Tools
+<h2>Tools</h2>
 
 <div>
   <a href="https://skillicons.dev">
