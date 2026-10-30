@@ -3,14 +3,7 @@
   <h2>🚀 Frontend Developer</h2> 
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
 </div>
-
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=Glebess&style=flat-square&color=blue" alt=""/>
-</div>
-
-
 ---
-
 <div>
   <h3>🛠️ Tech Stack & Skills</h2>
       <h4>Core & Languages</p>
@@ -29,6 +22,10 @@
         <li>HTTP request methods</li>
         <li>Password Hashing (bcrypt)</li>
       </ul>
+      <h4>Tools & Workflow</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="50" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm width="50" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="npm" alt="npm width="50" height="60"/>&nbsp;
       <h4>UI & Styling</h4>
       <ul>
         <li>CSS Modules</li>
@@ -45,16 +42,9 @@
       </ul>
   </ul>
 </div>
-  
-  
-  
 </div>
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="nodejs" alt="nodejs" width="50" height="50"/>&nbsp;
-</div>
+
 
 - **Core & Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3 / SCSS
 - **Frontend:** React 18, React Router DOM
@@ -65,27 +55,19 @@
 
 ---
 
-## 🎯 Engineering Principles
-
-- 🏗️ **Architectural Integrity:** I strictly follow **Feature-Sliced Design (FSD)** to keep codebases scalable, modular, and easy to maintain.
-- 📐 **Clean & Typed Code:**TypeScript, semantic HTML, and standardized **Conventional Commits**.
-- ♿ **UX & Accessibility (A11y):** Prioritizing keyboard navigation, ARIA standards, and smooth interfaces across all devices.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Glebess&show_icons=true&theme=tokyonight" alt="Gleb's GitHub Stats" height="175" />
   <img scr="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glebess&theme=solarized_dark"/>
 </p>
-
-
-  
-
 ---
 
 ## 📫 Get in Touch
 
 - 💬 **Telegram:** [@Glebaster00](https://t.me/Glebaster00)
 - 💼 **LinkedIn:** [Глеб Ермуков](https://www.linkedin.com/in/%D0%B3%D0%BB%D0%B5%D0%B1-%D0%B5%D1%80%D0%BC%D1%83%D0%BA%D0%BE%D0%B2-5b750b447/)
+
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=Glebess&style=flat-square&color=blue" alt=""/>
+</div>
