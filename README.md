@@ -51,9 +51,8 @@
     <li>Context API</li>
   </ul>
 </div>
-
-## 📊 GitHub Analytics
 <details> 
+## 📊 GitHub Analytics
 <table width="100">
 <tr border="0">
       <td align='center' width="510">
