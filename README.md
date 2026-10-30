@@ -1,56 +1,33 @@
 <div align="center">
-  <h1 align="center">👋 Hi, I'm Gleb!</h1>
-  <h2>🚀 Frontend Developer</h2> 
+  <h1 align="center">Glebess</h1>
+  <h2><b>💻Frontend Developer</b></h2> 
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
 </div>
+### 🛠️ Tech Stack & Toolkit
+## FrontEnd
+<div>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons Stream" />
+</a>
+</div>
+## BackEnd(basic)
+<div>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark" alt="Skill Icons Stream" />
+</div>
+## Test
+<div>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons Stream" />
+</div>
+
+##Tools
 
 <div>
-  <h3>🛠️ Tech Stack & Skills</h3>
-  
-  <h4>Core & Languages</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="html5" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="css3" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="60" height="60"/>&nbsp;
-
-  <h4>Frontend</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="react" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" title="React Router" alt="reactrouter" width="60" height="60"/>&nbsp;
-
-  <h4>Backend (Basic)</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="nodejs" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="sqlite" width="60" height="60"/>&nbsp;
-  <ul>
-    <li>REST API</li>
-    <li>HTTP request methods</li>
-    <li>Password Hashing (bcrypt)</li>
-  </ul>
-
-  <h4>Test (basic)</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jestJs" alt="jestJs" width="50" height="50"/>&nbsp;
-  
-  
-
-  <h4>Tools & Workflow</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="vite" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="60" height="60"/>&nbsp;
-
-  <h4>UI & Styling</h4>
-  <ul>
-    <li>CSS Modules</li>
-    <li>SCSS</li>
-    <li>Responsive & Adaptive Web Design</li>
-    <li>A11y</li>
-  </ul>
-
-  <h4>Architecture & State Management</h4>
-  <ul>
-    <li>Feature-Sliced Design (FSD)</li>
-    <li>React Hooks</li>
-    <li>Context API</li>
-  </ul>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,vite,npm,figma&theme=dark" alt="Skill Icons Stream" />
 </div>
+
 <details>
  <summary><h2><a href="https://github.com/Glebessi">
 <img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
