@@ -1,6 +1,6 @@
 <div align="center">
   <h1  align="center">👋 Hi, I'm Gleb! </h1>
-  <h2>🚀 Frontend Developer (React / TypeScript)</h2> 
+  <h2>🚀 Frontend Developer</h2> 
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
 </div>
 
