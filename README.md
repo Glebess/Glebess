@@ -23,9 +23,9 @@
         <li>Password Hashing (bcrypt)</li>
       </ul>
       <h4>Tools & Workflow</h4>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="50" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm width="50" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="npm" alt="npm width="50" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"  title="npm" alt="npm width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="git" alt="git" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm width="60" height="60"/>&nbsp;
       <h4>UI & Styling</h4>
       <ul>
         <li>CSS Modules</li>
@@ -43,30 +43,18 @@
   </ul>
 </div>
 </div>
-
-
-
-- **Core & Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3 / SCSS
-- **Frontend:** React 18, React Router DOM
-- **Architecture & State Management:** Feature-Sliced Design (FSD), React Hooks, Context API
-- **UI & Styling:** CSS Modules, SCSS, Responsive & Adaptive Web Design, A11y
-- **Backend (Basic):** Node.js, Express.js, SQLite, REST API
-- **Tools & Workflow:** Git (Conventional Commits), Vite, npm / pnpm, 
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Glebess&show_icons=true&theme=tokyonight" alt="Gleb's GitHub Stats" height="175" />
   <img scr="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glebess&theme=solarized_dark"/>
 </p>
----
+  
+<h2>📫 Get in Touch</h2>
+<p>- 💬 Telegram:[@Glebaster00](https://t.me/Glebaster00)</p>
+<p>- 💼 LinkedIn:[Глеб Ермуков](https://www.linkedin.com/in/%D0%B3%D0%BB%D0%B5%D0%B1-%D0%B5%D1%80%D0%BC%D1%83%D0%BA%D0%BE%D0%B2-5b750b447/)</p>
 
-## 📫 Get in Touch
 
-- 💬 **Telegram:** [@Glebaster00](https://t.me/Glebaster00)
-- 💼 **LinkedIn:** [Глеб Ермуков](https://www.linkedin.com/in/%D0%B3%D0%BB%D0%B5%D0%B1-%D0%B5%D1%80%D0%BC%D1%83%D0%BA%D0%BE%D0%B2-5b750b447/)
 
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=Glebess&style=flat-square&color=blue" alt=""/>
