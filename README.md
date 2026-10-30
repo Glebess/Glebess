@@ -16,11 +16,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark" alt="Skill Icons Stream" />
 
 ### Test
-  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="Skill Icons Stream" />
     
 ### Tools
-  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,vite,npm,figma&theme=dark" alt="Skill Icons Stream" />
 
 <details>
@@ -28,7 +26,6 @@
 <img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
   <a href="https://github.com/Glebess">
   </summary>
-## 📊 GitHub Analytics
 <table width="100">
 <tr border="0">
       <td align='center' width="510">
