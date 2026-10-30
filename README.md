@@ -9,7 +9,7 @@
   <h3>🛠️ Tech Stack & Toolkit</h3>
 
   <h4>FrontEnd</h4>
-  <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=css,html,js,ts,tailwind&theme=dark" alt="Skill Icons" />
 
   <h4>BackEnd (Basic)</h4>
   <img src="https://skillicons.dev/icons?i=express,sqlite&theme=dark" alt="Skill Icons" />
