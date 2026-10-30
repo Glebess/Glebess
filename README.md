@@ -5,12 +5,10 @@
 </div>
 ### 🛠️ Tech Stack & Toolkit
 
-<h2>FrontEnd</h2>
-<div>
+### FrontEnd
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons Stream" />
 </a>
-</div>
 
 <h2>BackEnd(basic)</h2> 
 <div>
