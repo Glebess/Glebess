@@ -7,12 +7,10 @@
 ### 🛠️ Tech Stack & Toolkit
 
 ### FrontEnd
-  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons Stream" />
 </a>
 
 ### BackEnd(basic)
-  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark" alt="Skill Icons Stream" />
 
 ### Test
