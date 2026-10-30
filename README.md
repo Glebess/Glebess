@@ -54,10 +54,24 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glebess&show_icons=true&theme=tokyonight" alt="Gleb's GitHub Stats" height="175" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glebess&theme=solarized_dark" alt="Repos per language" />
-</div>
+<table width="100">
+<tr border="0">
+      <td align='center' width="510">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Glebess&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+  <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </br>
+  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Glebess&theme=github-dark-blue&hide_border=true" />
+  
+</td>
+
+<td align='center' width="510">
+  <img  align="center"  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Glebess&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+
+  </td>
+</tr>
+</table>
 
 ## 📫 Get in Touch
 - 💬 Telegram: [@Glebaster00](https://t.me/Glebaster00)
