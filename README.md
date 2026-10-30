@@ -13,13 +13,16 @@
 
 <div>
   <h2>🛠️ Tech Stack & Skills</h2>
-  <div>
+  <ul>
+    <div>
     <p>Core & Languages</p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="java-script" alt="java-script" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="html5" alt="html5" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="css3" alt="css3" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="css3" alt="css3" width="50" height="50"/>&nbsp;
   </div>
+  </ul>
+  
 </div>
 
 <div align="center">
