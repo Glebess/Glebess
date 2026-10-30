@@ -26,6 +26,11 @@
     <li>Password Hashing (bcrypt)</li>
   </ul>
 
+  <h4>Test (basic)</h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Vite" alt="vite" width="60" height="60"/>&nbsp;
+  
+  
+
   <h4>Tools & Workflow</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="vite" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="60" height="60"/>&nbsp;
