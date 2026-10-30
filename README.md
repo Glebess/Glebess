@@ -65,6 +65,6 @@
 
 <div align="center">
   <h2><b>👀 Visitor Count</b></h2>
+  <img src="https://count.getloli.com/@Glebess?name=Glebess&theme=green&darkmode=0">
 </div>
-<a href="https://github.com/sponsors/Hunterdii/">
-<img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1">
+
