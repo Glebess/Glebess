@@ -14,7 +14,7 @@
 <div>
   <h2>🛠️ Tech Stack & Skills</h2>
   <ul>
-    <div>
+    <li>
     <p>Core & Languages</p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="java-script" alt="java-script" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="html5" alt="html5" width="50" height="50"/>&nbsp;
