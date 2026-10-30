@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Glebess</h1> 
-  <h2><b>💻Frontend Developer</b></h2> 
+  <p><b>💻Frontend Developer</b></h2> 
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
 
 
