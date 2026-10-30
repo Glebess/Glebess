@@ -53,7 +53,7 @@
 </div>
 
 ## 📊 GitHub Analytics
-
+<details> 
 <table width="100">
 <tr border="0">
       <td align='center' width="510">
@@ -72,6 +72,7 @@
   </td>
 </tr>
 </table>
+</details> 
 
 ## 📫 Get in Touch
 - 💬 Telegram: [@Glebaster00](https://t.me/Glebaster00)
