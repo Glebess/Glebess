@@ -10,24 +10,24 @@
   <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons Stream" />
 </a>
 
-<h2>BackEnd(basic)</h2> 
-<div>
+### BackEnd(basic)
+
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark" alt="Skill Icons Stream" />
-</div>
+
     
-<h2>Test</h2> 
-<div>
+### Test
+
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="Skill Icons Stream" />
-</div>
 
-<h2>Tools</h2>
 
-<div>
+### Tools
+
+
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,vite,npm,figma&theme=dark" alt="Skill Icons Stream" />
-</div>
+
 
 <details>
  <summary><h2><a href="https://github.com/Glebessi">
