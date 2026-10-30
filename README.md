@@ -3,6 +3,7 @@
   <h2><b>💻Frontend Developer</b></h2> 
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
 </div>
+
 ### 🛠️ Tech Stack & Toolkit
 
 ### FrontEnd
@@ -11,23 +12,16 @@
 </a>
 
 ### BackEnd(basic)
-
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark" alt="Skill Icons Stream" />
 
-    
 ### Test
-
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="Skill Icons Stream" />
-
-
+    
 ### Tools
-
-
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,vite,npm,figma&theme=dark" alt="Skill Icons Stream" />
-
 
 <details>
  <summary><h2><a href="https://github.com/Glebessi">
