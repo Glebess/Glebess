@@ -13,20 +13,14 @@
 
 <div>
   <h3>🛠️ Tech Stack & Skills</h2>
-  <ul>
-    <li>
       <h4>Core & Languages</p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="java-script" alt="java-script" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="html5" alt="html5" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="css3" alt="css3" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="css3" alt="css3" width="60" height="60"/>&nbsp;
-    </li>
-    <li>
       <h4>Frontend</p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg"  title="React" alt="React" width="60" height="60"/>&nbsp;
-    </li>
-    <li>
       <h4>Backend (Basic)</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="nodejs" alt="nodejs" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SqlLite" alt="SqlLite" width="60" height="60"/>&nbsp;
@@ -35,8 +29,6 @@
         <li>HTTP request methods</li>
         <li>Password Hashing (bcrypt)</li>
       </ul>
-    </li>
-    <li>
       <h4>UI & Styling</h4>
       <ul>
         <li>CSS Modules</li>
@@ -44,8 +36,6 @@
         <li>Responsive & Adaptive Web Design</li>
         <li>A11y</li>
       </ul>
-    </li>
-    <li>
       <h4>Architecture & State Management</h4>
       <ul>
         <li>Feature-Sliced Design (FSD)
@@ -53,7 +43,6 @@
         <li>Context API
         </li>
       </ul>
-    </li>
   </ul>
 </div>
   
