@@ -30,6 +30,11 @@
       <h4>Backend (Basic)</h4>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"  title="nodejs" alt="nodejs" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SqlLite" alt="SqlLite" width="60" height="60"/>&nbsp;
+      <ul>
+        <li>REST API</li>
+        <li>HTTP request methods</li>
+        <li>Password Hashing (bcrypt)</li>
+      </ul>
     </li>
     <li>
       <h4>UI & Styling</h4>
