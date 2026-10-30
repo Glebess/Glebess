@@ -64,5 +64,7 @@
 - 💼 LinkedIn: [Глеб Ермуков](https://www.linkedin.com/in/%D0%B3%D0%BB%D0%B5%D0%B1-%D0%B5%D1%80%D0%BC%D1%83%D0%BA%D0%BE%D0%B2-5b750b447/)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Glebess&style=flat-square&color=blue" alt="Visitor Count"/>
+  <h2><b>👀 Visitor Count</b></h2>
 </div>
+<a href="https://github.com/sponsors/Hunterdii/">
+<img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=1">
