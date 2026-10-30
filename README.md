@@ -51,7 +51,11 @@
     <li>Context API</li>
   </ul>
 </div>
-<details> 
+<details>
+ <summary><h2><a href="https://github.com/Glebessi">
+<img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2>
+  <a href="https://github.com/Glebess">
+  </summary>
 ## 📊 GitHub Analytics
 <table width="100">
 <tr border="0">
