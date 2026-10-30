@@ -2,7 +2,7 @@
   <h1 align="center">Glebess</h1>
   <p><b>💻Frontend Developer</b></h2> 
   <p>I build fast, responsive, and maintainable web applications with a focus on clean architecture, intuitive UX, and accessibility (A11y).</p>
-</div>
+
 
 ### 🛠️ Tech Stack & Toolkit
 
@@ -52,4 +52,4 @@
   <h2><b>👀 Visitor Count</b></h2>
   <img src="https://count.getloli.com/@Glebess?name=Glebess&theme=green&darkmode=0">
 </div>
-
+</div>
