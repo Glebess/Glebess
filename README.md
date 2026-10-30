@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Skill Icons" />
 
   <h4>BackEnd (Basic)</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=express,sqlite&theme=dark" alt="Skill Icons" />
 
   <h4>Test</h4>
   <img src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="Skill Icons" />
