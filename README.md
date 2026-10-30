@@ -16,15 +16,15 @@
   <ul>
     <li>
       <p>Core & Languages</p>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="java-script" alt="java-script" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="html5" alt="html5" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="css3" alt="css3" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="css3" alt="css3" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="java-script" alt="java-script" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="html5" alt="html5" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="css3" alt="css3" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="css3" alt="css3" width="60" height="60"/>&nbsp;
     </li>
     <li>
       <p>Frontend</p>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg"  title="React" alt="React" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg"  title="React" alt="React" width="60" height="60"/>&nbsp;
     </li>
     <li>
       <h4>Architecture & State Management</h4>
