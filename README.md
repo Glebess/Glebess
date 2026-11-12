@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Toolit</h3>
+  <h3>🛠️ Tech Stack & Toolkit</h3>
 
   <h4>FrontEnd</h4>
   <img src="https://skillicons.dev/icons?i=css,html,js,ts,tailwind&theme=dark" alt="Skill Icons" />
